@@ -1,0 +1,1 @@
+py27\Scripts\activate
